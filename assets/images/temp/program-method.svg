@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">이해와 참여, 나눔과 연결의 흐름</title>
+  <desc id="desc">네 개의 지점이 하나의 흐름으로 부드럽게 이어집니다.</desc>
+  <rect width="1600" height="700" fill="#fafaf8"/>
+  <path d="M110 390c150-210 335-210 485 0s335 210 485 0 335-210 485 0" fill="none" stroke="#397d78" stroke-width="26" opacity=".5"/>
+  <path d="M110 390c150-210 335-210 485 0s335 210 485 0 335-210 485 0" fill="none" stroke="#26354a" stroke-width="3"/>
+  <circle cx="225" cy="270" r="66" fill="#ffffff" stroke="#397d78" stroke-width="10"/>
+  <circle cx="575" cy="365" r="66" fill="#79a88d"/>
+  <circle cx="1020" cy="440" r="66" fill="#ffffff" stroke="#397d78" stroke-width="10"/>
+  <circle cx="1390" cy="285" r="66" fill="#26354a"/>
+  <circle cx="225" cy="270" r="14" fill="#26354a"/>
+  <circle cx="575" cy="365" r="14" fill="#26354a"/>
+  <circle cx="1020" cy="440" r="14" fill="#26354a"/>
+  <circle cx="1390" cy="285" r="14" fill="#fafaf8"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 720" role="img" aria-labelledby="title desc">
+  <title id="title">책과 기록, 질문과 대화</title>
+  <desc id="desc">펼친 책과 기록지, 질문과 대화를 떠올리는 원과 선이 놓여 있습니다.</desc>
+  <rect width="1400" height="720" fill="#fafaf8"/>
+  <path d="M170 170c170-44 296-26 426 60v350c-130-86-256-104-426-60z" fill="#ffffff" stroke="#397d78" stroke-width="4"/>
+  <path d="M596 230c130-86 256-104 426-60v350c-170-44-296-26-426 60z" fill="#f5f6f3" stroke="#397d78" stroke-width="4"/>
+  <path d="M596 230v350" stroke="#26354a" stroke-width="4"/>
+  <path d="M250 280c84-18 160-8 238 26M250 340c84-18 160-8 238 26M700 300c78-34 150-45 238-34M700 360c78-34 150-45 238-34" fill="none" stroke="#e6e8e4" stroke-width="15"/>
+  <circle cx="1148" cy="250" r="112" fill="none" stroke="#79a88d" stroke-width="36"/>
+  <circle cx="1225" cy="512" r="78" fill="#26354a"/>
+  <path d="M1065 430c57 19 104 60 131 118" fill="none" stroke="#397d78" stroke-width="5"/>
+</svg>

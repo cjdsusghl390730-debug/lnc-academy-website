@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">소통 공간 이미지 플레이스홀더</title><desc id="desc">둥근 테이블과 편안한 의자가 있는 소통 공간을 단순화한 그래픽</desc>
+  <rect width="1200" height="900" fill="#e8e8df"/>
+  <rect x="0" y="0" width="740" height="520" fill="#d4dfd8"/>
+  <rect x="80" y="80" width="580" height="360" fill="#9ebcaf"/>
+  <path d="M365 80v360" stroke="#f7f5f0" stroke-width="14"/>
+  <rect x="800" y="0" width="400" height="520" fill="#c8b896"/>
+  <circle cx="975" cy="190" r="82" fill="#f7f5f0" opacity=".78"/>
+  <path d="M0 520h1200v380H0z" fill="#a4957d"/>
+  <ellipse cx="600" cy="625" rx="300" ry="82" fill="#f6f3ea"/>
+  <g fill="#26354a"><rect x="245" y="610" width="118" height="170" rx="42"/><rect x="840" y="610" width="118" height="170" rx="42"/></g>
+  <g fill="#397d78"><rect x="455" y="690" width="118" height="160" rx="42"/><rect x="650" y="690" width="118" height="160" rx="42"/></g>
+  <text x="1130" y="852" fill="#fff" opacity=".72" font-family="Arial, sans-serif" font-size="16" text-anchor="end" letter-spacing="3">COMMUNITY SPACE</text>
+</svg>

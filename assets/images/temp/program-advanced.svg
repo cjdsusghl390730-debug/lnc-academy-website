@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">배움의 깊이와 연결의 확장</title>
+  <desc id="desc">겹쳐지는 층위와 열린 원이 중심에서 바깥으로 깊어집니다.</desc>
+  <rect width="1200" height="800" fill="#fafaf8"/>
+  <circle cx="600" cy="400" r="92" fill="#26354a"/>
+  <path d="M600 226a174 174 0 1 1-142 74" fill="none" stroke="#397d78" stroke-width="30"/>
+  <path d="M600 116a284 284 0 1 1-266 184" fill="none" stroke="#79a88d" stroke-width="15"/>
+  <path d="M600 42a358 358 0 0 1 343 459" fill="none" stroke="#26354a" stroke-width="3" opacity=".7"/>
+  <circle cx="855" cy="225" r="23" fill="#397d78"/>
+  <circle cx="921" cy="493" r="16" fill="#79a88d"/>
+  <circle cx="366" cy="602" r="20" fill="#26354a"/>
+  <path d="M690 400h350" stroke="#397d78" stroke-width="4"/>
+</svg>

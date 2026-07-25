@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">프로그램 메인 이미지 플레이스홀더</title><desc id="desc">다양한 사람들이 함께 질문하고 참여하는 교육 장면을 단순화한 그래픽</desc>
+  <rect width="1600" height="1000" fill="#667c76"/>
+  <path d="M0 0h820v1000H0z" fill="#26354a" opacity=".48"/>
+  <rect x="670" y="95" width="790" height="700" rx="12" fill="#f0ede4"/>
+  <rect x="740" y="150" width="650" height="270" fill="#d8e1da"/>
+  <path d="M775 355c165-165 350-165 575 0" fill="none" stroke="#79a88d" stroke-width="18" opacity=".7"/>
+  <rect x="790" y="670" width="560" height="28" rx="14" fill="#9e8a68"/>
+  <g fill="#26354a"><circle cx="845" cy="560" r="52"/><path d="M775 690c8-91 30-131 70-131s64 40 74 131z"/><circle cx="1165" cy="545" r="52"/><path d="M1095 690c8-91 30-131 70-131s64 40 74 131z"/></g>
+  <g fill="#397d78"><circle cx="1000" cy="485" r="48"/><path d="M935 640c8-82 28-120 65-120s58 38 67 120z"/></g>
+  <g stroke="#26354a" stroke-width="7" stroke-linecap="round" opacity=".7"><path d="M883 615l80-25"/><path d="M1130 610l-74-28"/></g>
+  <text x="1490" y="950" fill="#fff" opacity=".68" font-family="Arial, sans-serif" font-size="18" text-anchor="end" letter-spacing="3">PROGRAM HERO IMAGE</text>
+</svg>

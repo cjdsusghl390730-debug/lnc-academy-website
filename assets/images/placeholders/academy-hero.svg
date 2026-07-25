@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">아카데미 메인 이미지 플레이스홀더</title><desc id="desc">빛이 드는 교육 공간에서 사람들이 대화하는 장면을 단순화한 그래픽</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34485e"/><stop offset="1" stop-color="#839b8c"/></linearGradient></defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect x="760" y="95" width="655" height="675" rx="10" fill="#dfe4da" opacity=".88"/>
+  <rect x="810" y="145" width="260" height="370" fill="#eef0e9"/><rect x="1105" y="145" width="260" height="370" fill="#f5f0df"/>
+  <path d="M1070 145v370M810 330h555" stroke="#9eaaa1" stroke-width="10"/>
+  <ellipse cx="1030" cy="770" rx="420" ry="98" fill="#243448" opacity=".55"/>
+  <g fill="#26354a"><circle cx="865" cy="625" r="58"/><path d="M775 790c9-111 39-160 90-160s80 49 92 160z"/><circle cx="1190" cy="610" r="54"/><path d="M1110 786c9-105 36-151 80-151 46 0 74 46 86 151z"/></g>
+  <g fill="#8db29d"><circle cx="1035" cy="570" r="48"/><path d="M966 748c8-89 30-132 69-132 40 0 64 43 73 132z"/></g>
+  <rect x="670" y="742" width="720" height="26" rx="13" fill="#c7b99c"/>
+  <text x="1500" y="944" fill="#fff" opacity=".68" font-family="Arial, sans-serif" font-size="18" text-anchor="end" letter-spacing="3">ACADEMY HERO IMAGE</text>
+</svg>

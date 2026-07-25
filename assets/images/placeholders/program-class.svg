@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" role="img" aria-labelledby="title desc">
+  <title id="title">프로그램 수업 이미지 플레이스홀더</title><desc id="desc">원형 테이블을 중심으로 사람들이 함께 배우는 장면을 위에서 본 그래픽</desc>
+  <rect width="1000" height="1250" fill="#cbd8cf"/>
+  <circle cx="500" cy="625" r="325" fill="#f7f5f0"/>
+  <circle cx="500" cy="625" r="190" fill="#b69e78"/>
+  <g fill="#26354a"><circle cx="500" cy="215" r="82"/><circle cx="500" cy="1035" r="82"/><circle cx="90" cy="625" r="82"/><circle cx="910" cy="625" r="82"/></g>
+  <g fill="#397d78"><circle cx="790" cy="335" r="72"/><circle cx="210" cy="915" r="72"/></g>
+  <g fill="#fff" opacity=".8"><rect x="415" y="550" width="125" height="90" rx="6" transform="rotate(-8 477 595)"/><rect x="545" y="635" width="120" height="82" rx="6" transform="rotate(12 605 676)"/></g>
+  <circle cx="500" cy="625" r="32" fill="#79a88d"/>
+  <text x="932" y="1190" fill="#26354a" opacity=".52" font-family="Arial, sans-serif" font-size="16" text-anchor="end" letter-spacing="3">PROGRAM CLASS IMAGE</text>
+</svg>

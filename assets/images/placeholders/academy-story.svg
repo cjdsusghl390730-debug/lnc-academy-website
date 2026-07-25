@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
+  <title id="title">아카데미 이야기 이미지 플레이스홀더</title><desc id="desc">창가의 긴 테이블에서 사람들이 이야기를 나누는 장면을 단순화한 그래픽</desc>
+  <rect width="1600" height="800" fill="#d8dfd9"/>
+  <rect x="90" y="80" width="1420" height="530" rx="12" fill="#edf0e9"/>
+  <g fill="#c2d0c8"><rect x="150" y="130" width="290" height="270"/><rect x="475" y="130" width="290" height="270"/><rect x="800" y="130" width="290" height="270"/><rect x="1125" y="130" width="325" height="270"/></g>
+  <path d="M105 610h1390" stroke="#26354a" stroke-width="22" opacity=".15"/>
+  <ellipse cx="800" cy="578" rx="525" ry="74" fill="#aa9879"/>
+  <g fill="#26354a"><circle cx="470" cy="430" r="45"/><path d="M405 570c8-75 29-110 65-110s59 35 66 110z"/><circle cx="805" cy="415" r="45"/><path d="M740 560c8-75 29-110 65-110s59 35 66 110z"/></g>
+  <g fill="#397d78"><circle cx="1095" cy="438" r="45"/><path d="M1030 578c8-75 29-110 65-110s59 35 66 110z"/></g>
+  <g stroke="#f7f5f0" stroke-width="9" stroke-linecap="round"><path d="M550 520l125 25"/><path d="M1010 520l-120 28"/></g>
+  <text x="1492" y="750" fill="#26354a" opacity=".55" font-family="Arial, sans-serif" font-size="16" text-anchor="end" letter-spacing="3">ACADEMY STORY IMAGE</text>
+</svg>

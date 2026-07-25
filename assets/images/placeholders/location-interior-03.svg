@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">휴게 공간 이미지 플레이스홀더</title><desc id="desc">식물과 소파가 배치된 조용한 휴게 공간을 단순화한 그래픽</desc>
+  <rect width="1200" height="900" fill="#d9dfda"/>
+  <path d="M0 0h1200v610H0z" fill="#f2efe7"/>
+  <rect x="90" y="80" width="480" height="370" fill="#b9d0c4"/>
+  <path d="M330 80v370" stroke="#fff" stroke-width="14"/>
+  <rect x="650" y="140" width="440" height="330" rx="14" fill="#26354a" opacity=".9"/>
+  <circle cx="800" cy="300" r="74" fill="#79a88d"/>
+  <circle cx="950" cy="300" r="74" fill="#397d78"/>
+  <path d="M0 610h1200v290H0z" fill="#aa9b82"/>
+  <rect x="380" y="560" width="550" height="185" rx="54" fill="#6f897d"/>
+  <rect x="430" y="532" width="190" height="85" rx="28" fill="#9eb6a9"/>
+  <rect x="695" y="532" width="190" height="85" rx="28" fill="#c3cdbf"/>
+  <path d="M170 580c0-140 40-230 95-230s95 90 95 230" fill="#79a88d"/>
+  <rect x="210" y="545" width="108" height="120" rx="8" fill="#26354a"/>
+  <text x="1132" y="852" fill="#26354a" opacity=".58" font-family="Arial, sans-serif" font-size="16" text-anchor="end" letter-spacing="3">LOUNGE SPACE</text>
+</svg>

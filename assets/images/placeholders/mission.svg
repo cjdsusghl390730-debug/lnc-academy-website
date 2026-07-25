@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">미션과 비전 이미지 플레이스홀더</title><desc id="desc">개인의 성장이 관계와 공동체로 확장되는 연결을 표현한 그래픽</desc>
+  <rect width="1600" height="900" fill="#dfe4df"/>
+  <circle cx="370" cy="450" r="230" fill="#f7f5f0"/><circle cx="370" cy="450" r="112" fill="#79a88d"/>
+  <circle cx="1220" cy="450" r="270" fill="#26354a" opacity=".93"/><circle cx="1220" cy="450" r="140" fill="#397d78"/>
+  <path d="M485 450c190-190 420-190 590 0-170 190-400 190-590 0z" fill="#ffffff" opacity=".85"/>
+  <path d="M500 450c170-100 385-100 560 0-175 100-390 100-560 0z" fill="#c4d2c9"/>
+  <circle cx="780" cy="450" r="42" fill="#26354a"/>
+  <text x="1490" y="848" fill="#26354a" opacity=".52" font-family="Arial, sans-serif" font-size="17" text-anchor="end" letter-spacing="3">MISSION &amp; VISION IMAGE</text>
+</svg>

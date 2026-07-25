@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">삶과 사람의 연결을 표현한 추상 이미지</title>
+  <desc id="desc">네이비 바탕 위로 틸 색의 열린 원과 연결선이 넓게 이어집니다.</desc>
+  <rect width="1600" height="900" fill="#26354a"/>
+  <circle cx="1280" cy="150" r="430" fill="#397d78" opacity=".72"/>
+  <circle cx="1280" cy="150" r="275" fill="#26354a"/>
+  <circle cx="1160" cy="620" r="330" fill="none" stroke="#79a88d" stroke-width="68" opacity=".72"/>
+  <path d="M650 708C835 548 958 492 1158 493c182 1 292 57 442 159" fill="none" stroke="#f5f6f3" stroke-width="3" opacity=".68"/>
+  <path d="M780 812c174-166 346-249 536-249 108 0 197 22 284 63" fill="none" stroke="#ffffff" stroke-width="18" opacity=".12"/>
+  <circle cx="885" cy="570" r="20" fill="#fafaf8" opacity=".86"/>
+  <circle cx="1110" cy="499" r="15" fill="#79a88d"/>
+  <circle cx="1390" cy="593" r="22" fill="#fafaf8" opacity=".74"/>
+  <rect x="0" y="0" width="700" height="900" fill="#182333" opacity=".34"/>
+</svg>

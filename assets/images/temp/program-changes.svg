@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">생각이 관계와 일상으로 확장되는 변화</title>
+  <desc id="desc">중심의 생각에서 시작한 선과 원이 주변의 관계로 확장됩니다.</desc>
+  <rect width="1400" height="900" fill="#f5f6f3"/>
+  <circle cx="700" cy="450" r="110" fill="#26354a"/>
+  <circle cx="700" cy="450" r="245" fill="none" stroke="#397d78" stroke-width="4"/>
+  <circle cx="700" cy="450" r="360" fill="none" stroke="#79a88d" stroke-width="32" opacity=".42"/>
+  <path d="M700 340V112M804 406l234-118M808 507l252 136M641 541 475 744M592 428 310 330" stroke="#397d78" stroke-width="4"/>
+  <circle cx="700" cy="112" r="34" fill="#397d78"/>
+  <circle cx="1038" cy="288" r="47" fill="#79a88d"/>
+  <circle cx="1060" cy="643" r="29" fill="#26354a"/>
+  <circle cx="475" cy="744" r="42" fill="#397d78"/>
+  <circle cx="310" cy="330" r="25" fill="#79a88d"/>
+</svg>

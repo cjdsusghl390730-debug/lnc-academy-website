@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">메인 교육 공간 이미지 플레이스홀더</title><desc id="desc">넓은 창과 이동식 의자가 있는 메인 교육 공간을 단순화한 그래픽</desc>
+  <rect width="1600" height="1000" fill="#d9ded8"/>
+  <path d="M0 0h1600v695H0z" fill="#eeeae0"/>
+  <rect x="90" y="75" width="910" height="500" fill="#b9cec5"/>
+  <g stroke="#f7f5f0" stroke-width="16"><path d="M390 75v500M695 75v500"/><path d="M90 330h910"/></g>
+  <rect x="1085" y="92" width="390" height="485" fill="#26354a"/>
+  <text x="1152" y="198" fill="#f7f5f0" font-family="Arial, sans-serif" font-size="52" font-weight="600">L&amp;C</text>
+  <path d="M0 695h1600v305H0z" fill="#a99c83"/>
+  <ellipse cx="765" cy="700" rx="430" ry="95" fill="#f5f1e8"/>
+  <g fill="#397d78"><rect x="330" y="690" width="120" height="145" rx="35"/><rect x="1070" y="680" width="120" height="145" rx="35"/></g>
+  <g fill="#26354a"><rect x="535" y="745" width="120" height="145" rx="35"/><rect x="865" y="735" width="120" height="145" rx="35"/></g>
+  <text x="1490" y="952" fill="#26354a" opacity=".55" font-family="Arial, sans-serif" font-size="17" text-anchor="end" letter-spacing="3">MAIN LEARNING SPACE</text>
+</svg>

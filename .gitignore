@@ -1,0 +1,17 @@
+node_modules/
+.netlify/
+
+.env
+.env.*
+!.env.example
+
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
