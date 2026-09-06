@@ -542,6 +542,7 @@ a:focus-visible, button:focus-visible {
 .lnc-footer-nav a:hover { color: var(--lnc-white); }
 .lnc-footer-info p { display: flex; margin: 0 0 9px; color: rgba(255, 255, 255, 0.58); font-size: 14px; }
 .lnc-footer-info span { min-width: 88px; color: rgba(255, 255, 255, 0.85); }
+.lnc-footer-info .lnc-footer-note { display: block; font-size: 12px; }
 .lnc-footer-bottom { padding-block: 24px 32px; border-top: 1px solid rgba(255, 255, 255, 0.12); color: rgba(255, 255, 255, 0.42); font-size: 12px; }
 
 /* Subtle reveal */
